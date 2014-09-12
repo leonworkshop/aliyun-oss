@@ -1,4 +1,4 @@
-aliyun-oss
-==========
+ali-oss-python-client
+=====================
 
-Aliyun OSS Client SDK repository
+Ali cloud OSS python APIs and client tool
